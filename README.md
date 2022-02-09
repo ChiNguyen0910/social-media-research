@@ -1,0 +1,2 @@
+# social-media-research
+For more than a decade, social media has been one of the fastest growing industries in the world. Its use and potential is unparalleled by anything else in the world. In this project, we explored basic elements that define a user’s experience. We used general data analytic tactics, basic models, and our combined knowledge of programming to analyze three separate data sets. We found that there exists slight correlation between many of the aspects of social media (eg. Time, Likes, Followers) as one would likely predict.
